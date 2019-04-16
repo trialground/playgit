@@ -2,3 +2,4 @@
 - Japanese: こんにちは
 - Chinese: 你好
 - English: Hello
+- Spanish: halo

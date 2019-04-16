@@ -6,3 +6,4 @@
 
 # What are the first-tier cities of China ?
 - Beijing
+- Shanghai
